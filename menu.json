@@ -1,4 +1,29 @@
 {
+  "attributes": [
+    {
+    "id": "side_1",
+    "name": "French fries (small)",
+    "selected_by_default": true,
+    "price_impact": 0,
+    "available": false
+    }
+  ],
+  "attribute_groups": [
+    {
+    "id": "sides_1",
+    "name": "Choose a side",
+    "min": 0,
+    "max": 1,
+    "collapse": true,
+    "multiple_selection": false,
+    "attributes": [
+    "side_1",
+    "side_2",
+    "side_3",
+    "side_4"
+    ]
+    }
+  ],
   "products": [
     {
       "id": "burger_1",
