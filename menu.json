@@ -1,7 +1,7 @@
 {
   "attributes": [
     {
-    "id": "side_1",
+    "id": "22",
     "name": "French fries (small)",
     "selected_by_default": true,
     "price_impact": 0,
@@ -10,33 +10,25 @@
   ],
   "attribute_groups": [
     {
-    "id": "sides_1",
+    "id": "22",
     "name": "Choose a side",
     "min": 0,
     "max": 1,
     "collapse": true,
     "multiple_selection": false,
     "attributes": [
-    "side_1",
-    "side_2",
-    "side_3",
-    "side_4"
     ]
     }
   ],
   "products": [
     {
-      "id": "burger_1",
+      "id": "22",
       "name": "Burger + side + drink",
       "price": 7.5,
       "image_url": "https://i.imgur.com/Mcgmjaz.png",
-      "extra_image_urls": [
-        "https://i.imgur.com/Tsj3NOK.png",
-        "https://i.imgur.com/Qj5DlEH.png",
-        "https://i.imgur.com/Qj5MlEH.png"
-      ],
+      "extra_image_urls": [],
       "description": "Combination of delicious burger, a side and a drink",
-      "attributes_groups": ["sides_1", "drinks_1", "burger_types_1"],
+      "attributes_groups": [],
       "available": false
     }
   ],
@@ -49,12 +41,7 @@
         {
           "name": "Burger menus",
           "position": 1,
-          "products": ["burger_1"]
-        },
-        {
-          "name": "Salad menus",
-          "position": 2,
-          "products": ["salad_1"]
+          "products": ["22"]
         }
       ]
     }
