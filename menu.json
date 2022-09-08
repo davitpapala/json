@@ -1,35 +1,25 @@
 {
-"attributes": [
-
-],
-"attribute_groups": [
-
-],
-"products": [
-{
-"id": "22",
-"name": "Burger + side + drink",
-"price": 7.5,
-"image_url": "https://i.imgur.com/Mcgmjaz.png",
-"description": "Combination of delicious burger, a side and a drink",
-"attributes_groups": [],
-"available": false
-}
-],
-"collections": [
-{
-"name": "Menus",
-"position": 0,
-"image_url": "https://i.imgur.com/Qj5MlEH.png",
-"sections": [
-{
-"name": "Burger menus",
-"position": 1,
-"products": [
-"22"
-]
-}
-]
-}
-]
+  "attributes": [],
+  "attribute_groups": [],
+  "products": [{
+      "id": "22",
+      "name": "Analgin",
+      "price": 7.5,
+      "image_url": "https://i.imgur.com/Mcgmjaz.png",
+      "description": "A powerful pain reliever",
+      "attributes_groups": [],
+      "available": true
+  }],
+  "collections": [{
+      "name": "Medicaments",
+      "position": 0,
+      "image_url": "https://i.imgur.com/Qj5MlEH.png",
+      "sections": [{
+          "name": "Pain reliever",
+          "position": 1,
+          "products": [
+              "22"
+          ]
+      }]
+  }]
 }
