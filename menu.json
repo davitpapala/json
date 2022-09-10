@@ -1,25 +1,101 @@
 {
-  "attributes": [],
-  "attribute_groups": [],
-  "products": [{
-      "id": "22",
-      "name": "Analgin",
-      "price": 7.5,
-      "image_url": "https://i.imgur.com/Mcgmjaz.png",
-      "description": "A powerful pain reliever",
-      "attributes_groups": [],
-      "available": true
-  }],
-  "collections": [{
-      "name": "Medicaments",
-      "position": 0,
-      "image_url": "https://i.imgur.com/Qj5MlEH.png",
-      "sections": [{
-          "name": "Pain reliever",
-          "position": 1,
-          "products": [
-              "22"
-          ]
-      }]
-  }]
+"attributes": [],
+"attribute_groups": [],
+"products": [
+{
+"id": "13699",
+"name": "არტდეკო - კრემ-პუდრა SPF50 Sun Protection Powder Foundation SPF50 wet dry N70 dark sand",
+"description": null,
+"image_url": "https://picsum.photos/200",
+"price": 78,
+"attributes_groups": [],
+"available": true
+},
+{
+"id": "13701",
+"name": "არტდეკო - პუდრა High Definition Compact Powder N6 soft fawn",
+"description": null,
+"image_url": "https://picsum.photos/200",
+"price": 66,
+"attributes_groups": [],
+"available": true
+},
+{
+"id": "13705",
+"name": "არტდეკო - კრემ-პუდრა SPF50 Sun Protection Powder Foundation SPF50 wet dry N50 dark cool beige",
+"description": null,
+"image_url": "https://picsum.photos/200",
+"price": 78,
+"attributes_groups": [],
+"available": true
+},
+{
+"id": "13692",
+"name": "არტდეკო - კრემ-პუდრა SPF50 Sun Protection Powder Foundation SPF50 wet dry N90 light sand",
+"description": null,
+"image_url": "https://picsum.photos/200",
+"price": 78,
+"attributes_groups": [],
+"available": false
+},
+{
+"id": "16177",
+"name": "ციპრალექსი ტაბლეტი 10მგ #28",
+"description": null,
+"image_url": "https://picsum.photos/200",
+"price": 41,
+"attributes_groups": [],
+"available": false
+},
+{
+"id": "7694",
+"name": "სეციტა ტაბლეტი 10მგ #28",
+"description": null,
+"image_url": "https://picsum.photos/200",
+"price": 65,
+"attributes_groups": [],
+"available": true
+},
+{
+"id": "13693",
+"name": "არტდეკო - პუდრა Highlighter Powder Compact 6 glow time",
+"description": null,
+"image_url": "https://picsum.photos/200",
+"price": 33,
+"attributes_groups": [],
+"available": false
+},
+{
+"id": "18090",
+"name": "არტდეკო - კორექტორი Perfect Teint Concealer N6 light ivory 1.8მლ",
+"description": null,
+"image_url": "https://picsum.photos/200",
+"price": 43,
+"attributes_groups": [],
+"available": true
+}
+],
+"collections": [
+{
+"name": "პროდუქტები ზაფხულისთვის",
+"position": 0,
+"image_url": "https://i.imgur.com/Qj5MlEH.png",
+"sections": [
+{
+"name": "პროდუქტები ზაფხულისთვის",
+"position": 1,
+"products": [
+"13699",
+"13701",
+"13705",
+"13692",
+"16177",
+"7694",
+"13693",
+"18090"
+]
+}
+]
+}
+]
 }
