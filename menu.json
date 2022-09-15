@@ -3,299 +3,11 @@
 "attribute_groups": [],
 "products": [
 {
-"id": "10292",
-"name": "ერიუსი ტაბლეტი 5მგ #30",
+"id": "21299",
+"name": "ჰიგიენიკა ტილების და წილების საწ შამპუნი 1% 60მლ  #1",
 "description": null,
-"image_url": "https://127.0.0.1:3000/1092379/image.png",
-"price": 31.36,
-"available": false,
-"attributes_groups": []
-},
-{
-"id": "3291",
-"name": "ჰიგია შამპუნი ტილების საწ. შამპუნი 1% 120მლ ფლაკონი #1",
-"description": null,
-"image_url": "https://127.0.0.1:3000/1340400/image.png",
-"price": 12.27,
-"available": true,
-"attributes_groups": []
-},
-{
-"id": "4757",
-"name": "ალერგოსანი ტაბლეტი 25მგ #20",
-"description": null,
-"image_url": "https://127.0.0.1:3000/1289206/image.png",
-"price": 8.8,
-"available": true,
-"attributes_groups": []
-},
-{
-"id": "27244",
-"name": "დესდერმანი სუფთა გელი 1000მლ ფლაკონი #1",
-"description": null,
-"image_url": "https://127.0.0.1:3000/1304051/image.png",
-"price": 35,
-"available": false,
-"attributes_groups": []
-},
-{
-"id": "31262",
-"name": "ლორატადინი ტაბლეტი 10მგ #10",
-"description": null,
-"image_url": "https://127.0.0.1:3000/1307810/image.png",
-"price": 1.9,
-"available": true,
-"attributes_groups": []
-},
-{
-"id": "2897",
-"name": "ფენისტილი ნიუ წვეთები ორალური 1მგ/1მლ 20მლ ფლაკონი #1",
-"description": null,
-"image_url": "https://127.0.0.1:3000/1087910/image.png",
-"price": 17.55,
-"available": true,
-"attributes_groups": []
-},
-{
-"id": "35533",
-"name": "დეტოლი - ხელის ანტიბაქტერიული გელი  50მლ",
-"description": null,
-"image_url": "https://127.0.0.1:3000/1288922/image.png",
-"price": 6.7,
-"available": true,
-"attributes_groups": []
-},
-{
-"id": "7816",
-"name": "ზეფექსალი ტაბლეტი 180მგ #20",
-"description": null,
-"image_url": "https://127.0.0.1:3000/1090292/image.png",
-"price": 44.1,
-"available": false,
-"attributes_groups": []
-},
-{
-"id": "14963",
-"name": "ლორანექსი ტაბლეტი 5მგ #10",
-"description": null,
-"image_url": "https://127.0.0.1:3000/1089878/image.png",
-"price": 18.45,
-"available": true,
-"attributes_groups": []
-},
-{
-"id": "30584",
-"name": "ნორმოსტოპი ტაბლეტი 50მგ #12",
-"description": null,
-"image_url": "https://127.0.0.1:3000/1308140/image.png",
-"price": 7.43,
-"available": true,
-"attributes_groups": []
-},
-{
-"id": "31428",
-"name": "ალცეტინი ტაბლეტი 5მგ #20",
-"description": null,
-"image_url": "https://127.0.0.1:3000/1092790/image.png",
-"price": 32.5,
-"available": false,
-"attributes_groups": []
-},
-{
-"id": "470",
-"name": "ალერფასტი ტაბლეტი 180მგ #10",
-"description": null,
-"image_url": "https://127.0.0.1:3000/1087873/image.png",
-"price": 20,
-"available": false,
-"attributes_groups": []
-},
-{
-"id": "40038",
-"name": "ნიღაბი /პირბადე/ სამედიცინო რეზინით  #1",
-"description": null,
-"image_url": "https://127.0.0.1:3000/1156633/image.png",
-"price": 0.2,
-"available": true,
-"attributes_groups": []
-},
-{
-"id": "33585",
-"name": "დესდერმანი ხსნარი გარეგანი 100მლ #1",
-"description": null,
-"image_url": "https://127.0.0.1:3000/1288921/image.png",
-"price": 13.6,
-"available": true,
-"attributes_groups": []
-},
-{
-"id": "27024",
-"name": "ანტიბაქტერიული ხელის გელი ვირუცილი 100მლ  #1",
-"description": null,
-"image_url": "https://127.0.0.1:3000/1204650/image.png",
-"price": 7.5,
-"available": false,
-"attributes_groups": []
-},
-{
-"id": "6522",
-"name": "ესლოტინი ტაბლეტი 5მგ #10",
-"description": null,
-"image_url": "https://127.0.0.1:3000/1088847/image.png",
-"price": 33.04,
-"available": true,
-"attributes_groups": []
-},
-{
-"id": "39451",
-"name": "ანტიბაქტერიული ხელის გელი ჰიგიენიკა 'მაქსი პროტექტი' ალოე ვერა 60მლ  #1",
-"description": null,
-"image_url": "https://127.0.0.1:3000/1183393/image.png",
-"price": 5.5,
-"available": true,
-"attributes_groups": []
-},
-{
-"id": "35429",
-"name": "ლეილინი ტაბლეტი 180მგ #10",
-"description": null,
-"image_url": "https://127.0.0.1:3000/1096896/image.jpeg",
-"price": 22.81,
-"available": false,
-"attributes_groups": []
-},
-{
-"id": "1621",
-"name": "კლარიტინი ტაბლეტი 10მგ #10",
-"description": null,
-"image_url": "https://127.0.0.1:3000/1096604/image.png",
-"price": 14.25,
-"available": true,
-"attributes_groups": []
-},
-{
-"id": "29705",
-"name": "ნუქსი - RDM ხელის გამწმენდი გელი 30მლ",
-"description": null,
-"image_url": "https://127.0.0.1:3000/1291262/image.png",
-"price": 9.9,
-"available": true,
-"attributes_groups": []
-},
-{
-"id": "4155",
-"name": "დიაზოლინი ტაბლეტი 100მგ #10",
-"description": null,
-"image_url": "https://127.0.0.1:3000/1190110/image.png",
-"price": 1.32,
-"available": true,
-"attributes_groups": []
-},
-{
-"id": "1605",
-"name": "კეტოტიფენი ტაბლეტი 1მგ  #30",
-"description": null,
-"image_url": "https://127.0.0.1:3000/1091139/image.png",
-"price": 3.8,
-"available": true,
-"attributes_groups": []
-},
-{
-"id": "2900",
-"name": "ფენკაროლი ტაბლეტი 25მგ #20",
-"description": null,
-"image_url": "https://127.0.0.1:3000/1089911/image.png",
-"price": 15.3,
-"available": false,
-"attributes_groups": []
-},
-{
-"id": "3981",
-"name": "ფენისტილი გელი 0.1% 30გრ ტუბი #1",
-"description": null,
-"image_url": "https://127.0.0.1:3000/1087908/image.png",
-"price": 19.33,
-"available": true,
-"attributes_groups": []
-},
-{
-"id": "4029",
-"name": "ანტისოლი სპრეი 70გრ ფლაკონი #1",
-"description": null,
-"image_url": "https://127.0.0.1:3000/1098926/image.png",
-"price": 20.6,
-"available": true,
-"attributes_groups": []
-},
-{
-"id": "18077",
-"name": "დესლორა-დენკი ტაბლეტი 5მგ #10",
-"description": null,
-"image_url": "https://127.0.0.1:3000/1093865/image.png",
-"price": 13.99,
-"available": false,
-"attributes_groups": []
-},
-{
-"id": "20997",
-"name": "პერმეტრინი გელი 5% 40გრ  #1",
-"description": null,
-"image_url": "https://127.0.0.1:3000/1117004/image.png",
-"price": 16.8,
-"available": false,
-"attributes_groups": []
-},
-{
-"id": "38537",
-"name": "ანტიბაქტერიული. სადეზინფექციო ხსნარი 'ზომა სტერილი' სპრეი 600მლ #1",
-"description": null,
-"image_url": "https://127.0.0.1:3000/1118236/",
-"price": 14,
-"available": true,
-"attributes_groups": []
-},
-{
-"id": "16455",
-"name": "სეპტონა - სვ. ხელსახოცი ანტიბაქტერიული ჟასმინის ექსტრ  #15",
-"description": null,
-"image_url": "https://127.0.0.1:3000/1106601/image.png",
-"price": 2.8,
-"available": true,
-"attributes_groups": []
-},
-{
-"id": "16606",
-"name": "ჰელიქსი პლიუსი სიროფი 150მლ ფლაკონი #1",
-"description": null,
-"image_url": "https://127.0.0.1:3000/1106458/image.png",
-"price": 45.63,
-"available": true,
-"attributes_groups": []
-},
-{
-"id": "19200",
-"name": "დესლორატადინი ნორმონი სიროფი 0.5მგ/1მლ 120მლ ფლაკონი #1",
-"description": null,
-"image_url": "https://127.0.0.1:3000/1105846/image.png",
-"price": 17.5,
-"available": true,
-"attributes_groups": []
-},
-{
-"id": "40117",
-"name": "ანტიბაქტერიული ხელის პრემიუმ დეზინფექტანტი ჯპს სპრეი 100მლ ფლაკონი #1",
-"description": null,
-"image_url": "https://127.0.0.1:3000/1204651/image.png",
-"price": 9.7,
-"available": true,
-"attributes_groups": []
-},
-{
-"id": "27243",
-"name": "დესდერმანი გელი 100მლ ფლაკონი #1",
-"description": null,
-"image_url": "https://127.0.0.1:3000/1118008/image.png",
-"price": 13.6,
+"image_url": "https://gpcglovo-test.gepha.com/images/1106475/image.png",
+"price": 7.9,
 "available": true,
 "attributes_groups": []
 },
@@ -303,80 +15,17 @@
 "id": "6821",
 "name": "ბენზილბენზოატი ემულსია 20% 50გრ ფლაკონი #1",
 "description": null,
-"image_url": "https://127.0.0.1:3000/1095965/image.png",
+"image_url": "https://gpcglovo-test.gepha.com/images/1095965/image.png",
 "price": 1.85,
 "available": true,
 "attributes_groups": []
 },
 {
-"id": "29031",
-"name": "სეპტონა - სვ. ხელსახოცი ანტიბაქტერიული ლიმონი ექსტრ  #15",
+"id": "6522",
+"name": "ესლოტინი ტაბლეტი 5მგ #10",
 "description": null,
-"image_url": "https://127.0.0.1:3000/1212005/image.png",
-"price": 2.8,
-"available": true,
-"attributes_groups": []
-},
-{
-"id": "2599",
-"name": "ნიღაბი /პირბადე/ სამედიცინო რეზინით  #1",
-"description": null,
-"image_url": "https://127.0.0.1:3000/1154155/image.png",
-"price": 0.2,
-"available": true,
-"attributes_groups": []
-},
-{
-"id": "4582",
-"name": "ჰედრინი ლოსიონი 4%  50მლ ფლაკონი #1",
-"description": null,
-"image_url": "https://127.0.0.1:3000/1087220/image.png",
-"price": 16.9,
-"available": true,
-"attributes_groups": []
-},
-{
-"id": "28899",
-"name": "ნიქსარი ტაბლეტი 20მგ #30",
-"description": null,
-"image_url": "https://127.0.0.1:3000/1094929/image.png",
-"price": 47.55,
-"available": true,
-"attributes_groups": []
-},
-{
-"id": "14615",
-"name": "ალკმენე - ხელის გელი ანტიბაქტერიული ჩაის ხის ზეთი 63% 50მლ",
-"description": null,
-"image_url": "https://127.0.0.1:3000/1390123/image.png",
-"price": 5.95,
-"available": true,
-"attributes_groups": []
-},
-{
-"id": "16454",
-"name": "სეპტონა - სვ. ხელსახოცი ანტიბაქტერიული მწვანე ვაშლის ექსტრ  #15",
-"description": null,
-"image_url": "https://127.0.0.1:3000/1106598/image.png",
-"price": 2.8,
-"available": true,
-"attributes_groups": []
-},
-{
-"id": "3542",
-"name": "ერიუსი სიროფი 0.5მგ/1მლ  60მლ ფლაკონი #1",
-"description": null,
-"image_url": "https://127.0.0.1:3000/1098081/image.png",
-"price": 24.49,
-"available": true,
-"attributes_groups": []
-},
-{
-"id": "39384",
-"name": "ანტიბაქტერიული. სადეზინფექციო ხსნარი 'სუფთა სამყარო' 1000მლ  #1",
-"description": null,
-"image_url": "https://127.0.0.1:3000/1118213/image.png",
-"price": 13.05,
+"image_url": "https://gpcglovo-test.gepha.com/images/1088847/image.png",
+"price": 33.04,
 "available": true,
 "attributes_groups": []
 },
@@ -384,80 +33,35 @@
 "id": "19199",
 "name": "დესლორატადინი ნორმონი ტაბლეტი 5მგ #20",
 "description": null,
-"image_url": "https://127.0.0.1:3000/1188919/image.png",
+"image_url": "https://gpcglovo-test.gepha.com/images/1188919/image.png",
 "price": 19.9,
 "available": false,
 "attributes_groups": []
 },
 {
-"id": "413",
-"name": "ტავეგილი ტაბლეტი 1მგ #20",
+"id": "14963",
+"name": "ლორანექსი ტაბლეტი 5მგ #10",
 "description": null,
-"image_url": "https://127.0.0.1:3000/1095837/image.png",
-"price": 10.4,
+"image_url": "https://gpcglovo-test.gepha.com/images/1089878/image.png",
+"price": 18.45,
 "available": true,
 "attributes_groups": []
 },
 {
-"id": "15123",
-"name": "ნიქსარი ტაბლეტი 20მგ #10",
+"id": "1621",
+"name": "კლარიტინი ტაბლეტი 10მგ #10",
 "description": null,
-"image_url": "https://127.0.0.1:3000/1106354/image.png",
-"price": 15.85,
+"image_url": "https://gpcglovo-test.gepha.com/images/1096604/image.png",
+"price": 14.25,
 "available": true,
 "attributes_groups": []
 },
 {
-"id": "1120",
-"name": "დრამინა ტაბლეტი 50მგ #10",
+"id": "9864",
+"name": "ანტიბაქტერიული. სადეზინფექციო ხსნარი 'სუფთა სამყარო'  300მლ  #1",
 "description": null,
-"image_url": "https://127.0.0.1:3000/1105882/image.png",
+"image_url": "https://gpcglovo-test.gepha.com/images/1204652/image.png",
 "price": 8.7,
-"available": true,
-"attributes_groups": []
-},
-{
-"id": "33282",
-"name": "ესლოტინი სიროფი 0.5მგ/1მლ 60მლ ფლაკონი #1",
-"description": null,
-"image_url": "https://127.0.0.1:3000/1094501/image.png",
-"price": 22.81,
-"available": true,
-"attributes_groups": []
-},
-{
-"id": "4621",
-"name": "ფექსოფენი სანოველი ტაბლეტი 180მგ #10",
-"description": null,
-"image_url": "https://127.0.0.1:3000/1087854/image.png",
-"price": 24.25,
-"available": true,
-"attributes_groups": []
-},
-{
-"id": "39150",
-"name": "ნიქსარი ტაბლეტი 10მგ #30",
-"description": null,
-"image_url": "https://127.0.0.1:3000/1097359/image.jpeg",
-"price": 47.55,
-"available": false,
-"attributes_groups": []
-},
-{
-"id": "3176",
-"name": "ბოდი შოპი - ხელის გამწმენდი დამატენიანებელი გელი ლიმონი 100მლ",
-"description": null,
-"image_url": "https://127.0.0.1:3000/1302024/image.png",
-"price": 19,
-"available": true,
-"attributes_groups": []
-},
-{
-"id": "25247",
-"name": "სეპტონა - სვ. ხელსახოცი ანტიბაქტერიული  #15",
-"description": null,
-"image_url": "https://127.0.0.1:3000/1106606/image.png",
-"price": 2.95,
 "available": true,
 "attributes_groups": []
 },
@@ -465,26 +69,62 @@
 "id": "16456",
 "name": "სეპტონა - სვ. ხელსახოცი ანტიბაქტერიული ფორთოხლის ექსტრ  #15",
 "description": null,
-"image_url": "https://127.0.0.1:3000/1106604/image.png",
+"image_url": "https://gpcglovo-test.gepha.com/images/1106604/image.png",
 "price": 2.8,
 "available": true,
 "attributes_groups": []
 },
 {
-"id": "7958",
-"name": "დეტოლი - ხელის ანტიბაქტერიული გელი 200მლ  #1",
+"id": "35533",
+"name": "დეტოლი - ხელის ანტიბაქტერიული გელი  50მლ",
 "description": null,
-"image_url": "https://127.0.0.1:3000/1211422/image.png",
-"price": 18.5,
+"image_url": "https://gpcglovo-test.gepha.com/images/1288922/image.png",
+"price": 6.7,
 "available": true,
 "attributes_groups": []
 },
 {
-"id": "21299",
-"name": "ჰიგიენიკა ტილების და წილების საწ შამპუნი 1% 60მლ  #1",
+"id": "39451",
+"name": "ანტიბაქტერიული ხელის გელი ჰიგიენიკა 'მაქსი პროტექტი' ალოე ვერა 60მლ  #1",
 "description": null,
-"image_url": "https://127.0.0.1:3000/1106475/image.png",
-"price": 7.9,
+"image_url": "https://gpcglovo-test.gepha.com/images/1183393/image.png",
+"price": 5.5,
+"available": true,
+"attributes_groups": []
+},
+{
+"id": "39150",
+"name": "ნიქსარი ტაბლეტი 10მგ #30",
+"description": null,
+"image_url": "https://gpcglovo-test.gepha.com/images/1097359/image.jpeg",
+"price": 47.55,
+"available": true,
+"attributes_groups": []
+},
+{
+"id": "1605",
+"name": "კეტოტიფენი ტაბლეტი 1მგ  #30",
+"description": null,
+"image_url": "https://gpcglovo-test.gepha.com/images/1091139/image.png",
+"price": 3.8,
+"available": true,
+"attributes_groups": []
+},
+{
+"id": "2897",
+"name": "ფენისტილი ნიუ წვეთები ორალური 1მგ/1მლ 20მლ ფლაკონი #1",
+"description": null,
+"image_url": "https://gpcglovo-test.gepha.com/images/1087910/image.png",
+"price": 17.55,
+"available": true,
+"attributes_groups": []
+},
+{
+"id": "38537",
+"name": "ანტიბაქტერიული. სადეზინფექციო ხსნარი 'ზომა სტერილი' სპრეი 600მლ #1",
+"description": null,
+"image_url": "https://gpcglovo-test.gepha.com/images/1118236/",
+"price": 14,
 "available": true,
 "attributes_groups": []
 },
@@ -492,9 +132,414 @@
 "id": "2899",
 "name": "ფენკაროლი ტაბლეტი 10მგ #20",
 "description": null,
-"image_url": "https://127.0.0.1:3000/1089893/image.png",
+"image_url": "https://gpcglovo-test.gepha.com/images/1089893/image.png",
 "price": 11.25,
 "available": false,
+"attributes_groups": []
+},
+{
+"id": "3176",
+"name": "ბოდი შოპი - ხელის გამწმენდი დამატენიანებელი გელი ლიმონი 100მლ",
+"description": null,
+"image_url": "https://gpcglovo-test.gepha.com/images/1302024/image.png",
+"price": 19,
+"available": true,
+"attributes_groups": []
+},
+{
+"id": "4029",
+"name": "ანტისოლი სპრეი 70გრ ფლაკონი #1",
+"description": null,
+"image_url": "https://gpcglovo-test.gepha.com/images/1098926/image.png",
+"price": 20.6,
+"available": true,
+"attributes_groups": []
+},
+{
+"id": "40232",
+"name": "ტესტი სწრაფი ანტიგენის RADCOV4  #20",
+"description": null,
+"image_url": "https://gpcglovo-test.gepha.com/images/1283479/image.png",
+"price": 560,
+"available": false,
+"attributes_groups": []
+},
+{
+"id": "19721",
+"name": "დულგონი - ხელის გელი ანტიბაქტერიული ალოე ვერა 63% 50მლ",
+"description": null,
+"image_url": "https://gpcglovo-test.gepha.com/images/1299291/image.png",
+"price": 5.95,
+"available": true,
+"attributes_groups": []
+},
+{
+"id": "14615",
+"name": "ალკმენე - ხელის გელი ანტიბაქტერიული ჩაის ხის ზეთი 63% 50მლ",
+"description": null,
+"image_url": "https://gpcglovo-test.gepha.com/images/1390123/image.png",
+"price": 5.95,
+"available": true,
+"attributes_groups": []
+},
+{
+"id": "31428",
+"name": "ალცეტინი ტაბლეტი 5მგ #20",
+"description": null,
+"image_url": "https://gpcglovo-test.gepha.com/images/1092790/image.png",
+"price": 32.5,
+"available": false,
+"attributes_groups": []
+},
+{
+"id": "30584",
+"name": "ნორმოსტოპი ტაბლეტი 50მგ #12",
+"description": null,
+"image_url": "https://gpcglovo-test.gepha.com/images/1308140/image.png",
+"price": 7.43,
+"available": false,
+"attributes_groups": []
+},
+{
+"id": "27243",
+"name": "დესდერმანი გელი 100მლ ფლაკონი #1",
+"description": null,
+"image_url": "https://gpcglovo-test.gepha.com/images/1118008/image.png",
+"price": 13.6,
+"available": true,
+"attributes_groups": []
+},
+{
+"id": "2900",
+"name": "ფენკაროლი ტაბლეტი 25მგ #20",
+"description": null,
+"image_url": "https://gpcglovo-test.gepha.com/images/1089911/image.png",
+"price": 15.3,
+"available": false,
+"attributes_groups": []
+},
+{
+"id": "4155",
+"name": "დიაზოლინი ტაბლეტი 100მგ #10",
+"description": null,
+"image_url": "https://gpcglovo-test.gepha.com/images/1190110/image.png",
+"price": 1.32,
+"available": false,
+"attributes_groups": []
+},
+{
+"id": "1120",
+"name": "დრამინა ტაბლეტი 50მგ #10",
+"description": null,
+"image_url": "https://gpcglovo-test.gepha.com/images/1105882/image.png",
+"price": 8.7,
+"available": true,
+"attributes_groups": []
+},
+{
+"id": "40038",
+"name": "ნიღაბი /პირბადე/ სამედიცინო რეზინით  #1",
+"description": null,
+"image_url": "https://gpcglovo-test.gepha.com/images/1156633/image.png",
+"price": 0.2,
+"available": false,
+"attributes_groups": []
+},
+{
+"id": "27244",
+"name": "დესდერმანი სუფთა გელი 1000მლ ფლაკონი #1",
+"description": null,
+"image_url": "https://gpcglovo-test.gepha.com/images/1304051/image.png",
+"price": 35,
+"available": true,
+"attributes_groups": []
+},
+{
+"id": "7958",
+"name": "დეტოლი - ხელის ანტიბაქტერიული გელი 200მლ  #1",
+"description": null,
+"image_url": "https://gpcglovo-test.gepha.com/images/1211422/image.png",
+"price": 18.5,
+"available": true,
+"attributes_groups": []
+},
+{
+"id": "3981",
+"name": "ფენისტილი გელი 0.1% 30გრ ტუბი #1",
+"description": null,
+"image_url": "https://gpcglovo-test.gepha.com/images/1087908/image.png",
+"price": 19.33,
+"available": true,
+"attributes_groups": []
+},
+{
+"id": "39348",
+"name": "ანტიბაქტერიული ხელის გელი დოქტორ სმიჩი 50მლ  #1",
+"description": null,
+"image_url": "https://gpcglovo-test.gepha.com/images/1101393/image.png",
+"price": 5.2,
+"available": true,
+"attributes_groups": []
+},
+{
+"id": "29031",
+"name": "სეპტონა - სვ. ხელსახოცი ანტიბაქტერიული ლიმონი ექსტრ  #15",
+"description": null,
+"image_url": "https://gpcglovo-test.gepha.com/images/1212005/image.png",
+"price": 2.8,
+"available": true,
+"attributes_groups": []
+},
+{
+"id": "19200",
+"name": "დესლორატადინი ნორმონი სიროფი 0.5მგ/1მლ 120მლ ფლაკონი #1",
+"description": null,
+"image_url": "https://gpcglovo-test.gepha.com/images/1105846/image.png",
+"price": 17.5,
+"available": true,
+"attributes_groups": []
+},
+{
+"id": "31262",
+"name": "ლორატადინი ტაბლეტი 10მგ #10",
+"description": null,
+"image_url": "https://gpcglovo-test.gepha.com/images/1307810/image.png",
+"price": 1.9,
+"available": true,
+"attributes_groups": []
+},
+{
+"id": "39384",
+"name": "ანტიბაქტერიული. სადეზინფექციო ხსნარი 'სუფთა სამყარო' 1000მლ  #1",
+"description": null,
+"image_url": "https://gpcglovo-test.gepha.com/images/1118213/image.png",
+"price": 13.05,
+"available": true,
+"attributes_groups": []
+},
+{
+"id": "470",
+"name": "ალერფასტი ტაბლეტი 180მგ #10",
+"description": null,
+"image_url": "https://gpcglovo-test.gepha.com/images/1087873/image.png",
+"price": 20,
+"available": true,
+"attributes_groups": []
+},
+{
+"id": "29705",
+"name": "ნუქსი - RDM ხელის გამწმენდი გელი 30მლ",
+"description": null,
+"image_url": "https://gpcglovo-test.gepha.com/images/1291262/image.png",
+"price": 9.9,
+"available": false,
+"attributes_groups": []
+},
+{
+"id": "33585",
+"name": "დესდერმანი ხსნარი გარეგანი 100მლ #1",
+"description": null,
+"image_url": "https://gpcglovo-test.gepha.com/images/1288921/image.png",
+"price": 13.6,
+"available": true,
+"attributes_groups": []
+},
+{
+"id": "16606",
+"name": "ჰელიქსი პლიუსი სიროფი 150მლ ფლაკონი #1",
+"description": null,
+"image_url": "https://gpcglovo-test.gepha.com/images/1106458/image.png",
+"price": 45.63,
+"available": false,
+"attributes_groups": []
+},
+{
+"id": "7816",
+"name": "ზეფექსალი ტაბლეტი 180მგ #20",
+"description": null,
+"image_url": "https://gpcglovo-test.gepha.com/images/1090292/image.png",
+"price": 44.1,
+"available": true,
+"attributes_groups": []
+},
+{
+"id": "2725",
+"name": "სუპრასტინი ტაბლეტი 25მგ #20",
+"description": null,
+"image_url": "https://gpcglovo-test.gepha.com/images/1095834/image.png",
+"price": 8.45,
+"available": false,
+"attributes_groups": []
+},
+{
+"id": "40117",
+"name": "ანტიბაქტერიული ხელის პრემიუმ დეზინფექტანტი ჯპს სპრეი 100მლ ფლაკონი #1",
+"description": null,
+"image_url": "https://gpcglovo-test.gepha.com/images/1204651/image.png",
+"price": 9.7,
+"available": true,
+"attributes_groups": []
+},
+{
+"id": "33282",
+"name": "ესლოტინი სიროფი 0.5მგ/1მლ 60მლ ფლაკონი #1",
+"description": null,
+"image_url": "https://gpcglovo-test.gepha.com/images/1094501/image.png",
+"price": 22.81,
+"available": true,
+"attributes_groups": []
+},
+{
+"id": "3291",
+"name": "ჰიგია შამპუნი ტილების საწ. შამპუნი 1% 120მლ ფლაკონი #1",
+"description": null,
+"image_url": "https://gpcglovo-test.gepha.com/images/1340400/image.png",
+"price": 12.27,
+"available": true,
+"attributes_groups": []
+},
+{
+"id": "413",
+"name": "ტავეგილი ტაბლეტი 1მგ #20",
+"description": null,
+"image_url": "https://gpcglovo-test.gepha.com/images/1095837/image.png",
+"price": 10.4,
+"available": true,
+"attributes_groups": []
+},
+{
+"id": "18077",
+"name": "დესლორა-დენკი ტაბლეტი 5მგ #10",
+"description": null,
+"image_url": "https://gpcglovo-test.gepha.com/images/1093865/image.png",
+"price": 13.99,
+"available": false,
+"attributes_groups": []
+},
+{
+"id": "4582",
+"name": "ჰედრინი ლოსიონი 4%  50მლ ფლაკონი #1",
+"description": null,
+"image_url": "https://gpcglovo-test.gepha.com/images/1087220/image.png",
+"price": 16.9,
+"available": true,
+"attributes_groups": []
+},
+{
+"id": "25247",
+"name": "სეპტონა - სვ. ხელსახოცი ანტიბაქტერიული  #15",
+"description": null,
+"image_url": "https://gpcglovo-test.gepha.com/images/1106606/image.png",
+"price": 2.95,
+"available": true,
+"attributes_groups": []
+},
+{
+"id": "39657",
+"name": "ნიღაბი /პირბადე/ სამედიცინო 5 შრიანი KN95 #1",
+"description": null,
+"image_url": "https://gpcglovo-test.gepha.com/images/1545605/image.png",
+"price": 5.9,
+"available": true,
+"attributes_groups": []
+},
+{
+"id": "15123",
+"name": "ნიქსარი ტაბლეტი 20მგ #10",
+"description": null,
+"image_url": "https://gpcglovo-test.gepha.com/images/1106354/image.png",
+"price": 15.85,
+"available": true,
+"attributes_groups": []
+},
+{
+"id": "16455",
+"name": "სეპტონა - სვ. ხელსახოცი ანტიბაქტერიული ჟასმინის ექსტრ  #15",
+"description": null,
+"image_url": "https://gpcglovo-test.gepha.com/images/1106601/image.png",
+"price": 2.8,
+"available": true,
+"attributes_groups": []
+},
+{
+"id": "4757",
+"name": "ალერგოსანი ტაბლეტი 25მგ #20",
+"description": null,
+"image_url": "https://gpcglovo-test.gepha.com/images/1289206/image.png",
+"price": 8.8,
+"available": true,
+"attributes_groups": []
+},
+{
+"id": "16566",
+"name": "დულგონი - ხელის გელი ანტიბაქტერიული 63% 50მლ",
+"description": null,
+"image_url": "https://gpcglovo-test.gepha.com/images/1211449/image.png",
+"price": 5.95,
+"available": true,
+"attributes_groups": []
+},
+{
+"id": "4621",
+"name": "ფექსოფენი სანოველი ტაბლეტი 180მგ #10",
+"description": null,
+"image_url": "https://gpcglovo-test.gepha.com/images/1087854/image.png",
+"price": 24.25,
+"available": true,
+"attributes_groups": []
+},
+{
+"id": "3542",
+"name": "ერიუსი სიროფი 0.5მგ/1მლ  60მლ ფლაკონი #1",
+"description": null,
+"image_url": "https://gpcglovo-test.gepha.com/images/1098081/image.png",
+"price": 24.49,
+"available": true,
+"attributes_groups": []
+},
+{
+"id": "35429",
+"name": "ლეილინი ტაბლეტი 180მგ #10",
+"description": null,
+"image_url": "https://gpcglovo-test.gepha.com/images/1096896/image.jpeg",
+"price": 22.81,
+"available": true,
+"attributes_groups": []
+},
+{
+"id": "28899",
+"name": "ნიქსარი ტაბლეტი 20მგ #30",
+"description": null,
+"image_url": "https://gpcglovo-test.gepha.com/images/1094929/image.png",
+"price": 47.55,
+"available": true,
+"attributes_groups": []
+},
+{
+"id": "16454",
+"name": "სეპტონა - სვ. ხელსახოცი ანტიბაქტერიული მწვანე ვაშლის ექსტრ  #15",
+"description": null,
+"image_url": "https://gpcglovo-test.gepha.com/images/1106598/image.png",
+"price": 2.8,
+"available": true,
+"attributes_groups": []
+},
+{
+"id": "20997",
+"name": "პერმეტრინი გელი 5% 40გრ  #1",
+"description": null,
+"image_url": "https://gpcglovo-test.gepha.com/images/1117004/image.png",
+"price": 16.8,
+"available": false,
+"attributes_groups": []
+},
+{
+"id": "2599",
+"name": "ნიღაბი /პირბადე/ სამედიცინო რეზინით  #1",
+"description": null,
+"image_url": "https://gpcglovo-test.gepha.com/images/1154155/image.png",
+"price": 0.2,
+"available": true,
 "attributes_groups": []
 }
 ],
